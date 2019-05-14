@@ -17,6 +17,6 @@ Note: `<your_initials>` should be your actual name
 | **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- | --- |
 | In-Lab work | **X** | | | |
-| Mini-challenge | | | | **X** |
+| Mini-challenge | | | | | **X** |
 | Challenge | **X** | | | |
-| Challenges - Timely Submission | | | **X** | |
+| Challenges - Timely Submission | | | | **X**  | |
